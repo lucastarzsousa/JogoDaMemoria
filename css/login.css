@@ -1,0 +1,73 @@
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-image: url('../images/fundo.jpg');
+  background-size: cover;
+  min-width: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 20px 50px;
+  font-family: 'Lilita One', cursive;
+}
+
+
+
+
+.form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.barra-login {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.barra-login img {
+  width: 400px;
+}
+
+.barra-login h1 {
+  color: #f9e547;
+  font-size: 3.5em;
+  font-family: 'Lilita One', cursive;
+}
+
+.login-input {
+  border: 2px solid #6EC6FF;
+  border-radius: 8px;
+  font-size: 1em;
+  margin-bottom: 15px;
+  max-width: 300px;
+  width: 100%;
+  outline: none;
+  padding: 15px;
+  font-family: 'Lilita One', cursive;
+}
+
+.login-botao {
+  background-color: #8B5A2B;
+  border-radius: 8px;
+  font-size: 1em;
+  color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 15px;
+  max-width: 300px;
+  width: 100%;
+  outline: none;
+  padding: 15px;
+  font-family: 'Lilita One', cursive;
+}
+
+.login-botao:disabled {
+  background-color: #eee;
+  color: #aaa;
+  cursor: auto;
+}
