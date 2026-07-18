@@ -1,23 +1,13 @@
-# 🧠 Jogo da Memória - Bob Esponja
+# Jogo da Memória - Bob Esponja
 
-Um jogo da memória inspirado no universo de **Bob Esponja**, desenvolvido para praticar conceitos fundamentais de desenvolvimento web utilizando JavaScript puro.
+Este foi um dos primeiros projetos que desenvolvi utilizando JavaScript puro. A ideia era criar uma versão do clássico jogo da memória com uma identidade visual inspirada no universo de Bob Esponja.
 
-O projeto conta com sistema de embaralhamento de cartas, verificação de pares, temporizador e interface personalizada baseada na Fenda do Biquíni.
+Durante o desenvolvimento trabalhei principalmente com manipulação do DOM, lógica de programação, eventos e organização do código. Também implementei funcionalidades como embaralhamento das cartas, comparação entre pares e um temporizador para acompanhar a partida.
+
+Foi um projeto importante para consolidar conceitos fundamentais de JavaScript e entender melhor como tornar páginas web realmente interativas.
 
 ## Tecnologias utilizadas
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
-
-## Funcionalidades
-
-* Cartas embaralhadas aleatoriamente
-* Sistema de comparação entre cartas
-* Temporizador de partida
-* Interface temática personalizada
-* Reinício da partida
-
-## Objetivo
-
-Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, lógica de programação, eventos e organização de código em JavaScript.
+* JavaScript
